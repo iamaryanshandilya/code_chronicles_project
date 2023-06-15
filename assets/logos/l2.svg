@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="204.07303mm"
+   height="37.119812mm"
+   viewBox="0 0 204.07303 37.119812"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="115.83741"
+       y="318.20813"
+       width="102.73675"
+       height="99.289207"
+       id="rect191" />
+    <rect
+       x="179.27219"
+       y="326.13748"
+       width="331.65353"
+       height="193.75186"
+       id="rect181" />
+    <rect
+       x="115.83741"
+       y="318.20813"
+       width="102.73675"
+       height="99.289207"
+       id="rect191-9" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-2.9634858,-129.94009)">
+    <g
+       id="g144"
+       transform="matrix(3.3141421,0,0,3.3141421,-111.65032,-160.79513)">
+      <text
+         xml:space="preserve"
+         transform="scale(0.26458333)"
+         id="text179"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:dotty;-inkscape-font-specification:dotty;white-space:pre;shape-inside:url(#rect181);fill:#000000"><tspan
+           x="179.27148"
+           y="360.22763"
+           id="tspan218">  <tspan
+   style="font-size:40px"
+   id="tspan216">code chronicles_</tspan></tspan></text>
+      <g
+         id="g341"
+         transform="matrix(2.5281056,0,0,2.3902053,-42.900089,-128.74772)">
+        <text
+           xml:space="preserve"
+           transform="scale(0.26458333)"
+           id="text189"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:dotty;-inkscape-font-specification:dotty;white-space:pre;shape-inside:url(#rect191);fill:#000000"><tspan
+             x="115.83789"
+             y="352.29989"
+             id="tspan220">c</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,2.1659774,2.0401364)"
+           id="text189-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:dotty;-inkscape-font-specification:dotty;white-space:pre;shape-inside:url(#rect191-9);fill:#000000"><tspan
+             x="115.83789"
+             y="352.29989"
+             id="tspan222">c</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

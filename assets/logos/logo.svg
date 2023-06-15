@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="61.57642mm"
+   height="11.200432mm"
+   viewBox="0 0 61.57642 11.200432"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <rect
+       x="115.83741"
+       y="318.20813"
+       width="102.73675"
+       height="99.289207"
+       id="rect191" />
+    <rect
+       x="179.27219"
+       y="326.13748"
+       width="331.65353"
+       height="193.75186"
+       id="rect181" />
+    <rect
+       x="115.83741"
+       y="318.20813"
+       width="102.73675"
+       height="99.289207"
+       id="rect191-9" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-34.583249,-87.725637)">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text179"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;font-family:dotty;-inkscape-font-specification:dotty;white-space:pre;shape-inside:url(#rect181);fill:#000000"
+       inkscape:export-filename="text179.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="179.27148"
+         y="360.22763"
+         id="tspan559">  <tspan
+   style="font-size:40px"
+   id="tspan557">code chronicles_</tspan></tspan></text>
+    <g
+       id="g341"
+       transform="matrix(2.5281056,0,0,2.3902053,-42.900089,-128.74772)">
+      <text
+         xml:space="preserve"
+         transform="scale(0.26458333)"
+         id="text189"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:dotty;-inkscape-font-specification:dotty;white-space:pre;shape-inside:url(#rect191);fill:#000000"><tspan
+           x="115.83789"
+           y="352.29989"
+           id="tspan561">c</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,2.1659774,2.0401364)"
+         id="text189-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:dotty;-inkscape-font-specification:dotty;white-space:pre;shape-inside:url(#rect191-9);fill:#000000"><tspan
+           x="115.83789"
+           y="352.29989"
+           id="tspan563">c</tspan></text>
+    </g>
+  </g>
+</svg>
