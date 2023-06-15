@@ -18,7 +18,8 @@ class LoginView extends ConsumerStatefulWidget {
 }
 
 class _LoginViewState extends ConsumerState<LoginView> {
-  final _loginFormKey = GlobalKey<FormState>();
+    final GlobalKey<FormState> _loginFormKey =
+      GlobalKey<FormState>(debugLabel: '_loginFormKey');
   late String _email, _password;
   bool showPassword = false;
 

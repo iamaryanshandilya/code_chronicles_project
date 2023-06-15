@@ -23,7 +23,7 @@ class SignUpView extends ConsumerStatefulWidget {
 
 class _SignUpViewState extends ConsumerState<SignUpView> {
   List<String>? selectedTopics = [];
-  final signUpFormKey = GlobalKey<FormState>();
+  final _signUpFormKey = GlobalKey<FormState>(debugLabel: '_signUpFormKey');
   late String _username, _name, _email, _password;
   bool showPassword = false;
 
@@ -38,7 +38,7 @@ class _SignUpViewState extends ConsumerState<SignUpView> {
   }
 
   checkFields() {
-    final form = signUpFormKey.currentState;
+    final form = _signUpFormKey.currentState;
     if (form!.validate()) {
       form.save();
       return true;
@@ -48,12 +48,12 @@ class _SignUpViewState extends ConsumerState<SignUpView> {
 
   @override
   void dispose() {
-    signUpFormKey.currentState!.dispose();
+    _signUpFormKey.currentState!.dispose();
     super.dispose();
   }
 
   void onSignUp() {
-    final form = signUpFormKey.currentState;
+    final form = _signUpFormKey.currentState;
     checkFields();
     if (form!.validate()) {
       if (selectedTopics!.isEmpty) {
@@ -126,7 +126,7 @@ class _SignUpViewState extends ConsumerState<SignUpView> {
                   ),
                 ),
                 Form(
-                  key: signUpFormKey,
+                  key: _signUpFormKey,
                   child: _loginForm(context),
                 )
               ],
