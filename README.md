@@ -6,7 +6,7 @@ Code Chronicles is a platform to allow users to create, and share their articles
 
 ## Requirements
 
-Before using this project, you will need to have Appwrite instance with Code Chronicles project ready. You can visit Appwrite's website for documentation [Docs](https://appwrite.io/docs) or [Dev.to post](https://dev.to/appwrite/did-we-just-build-a-netflix-clone-with-appwrite-28ok).
+Before using this project, you will need to have Appwrite instance with Code Chronicles project ready. You can visit Appwrite's website for documentation [Docs](https://appwrite.io/docs).
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
